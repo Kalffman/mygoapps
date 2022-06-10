@@ -1,9 +1,10 @@
-### Bin2Dec
+# Bin2Dec
 
 A script that convert binary strings, separeted by space " ", in a decimal number and 
 validate if this follow the binary number pattern.
 
-#### How to run
+Example
+---
 
 
 ```bash

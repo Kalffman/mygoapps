@@ -1,9 +1,10 @@
-### Real2Centavos
+# Real2Centavos
 
 Application that converts a float number, in Brazilian Reais (R$),
 to number of coins, Reais cents, needed to fill the value
 
-#### Example
+Example
+---
 
 ```bash
 $ go run real2centavos.go 1.49
