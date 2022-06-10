@@ -18,7 +18,7 @@ $ go run bin2dec.go 11111111
 
 
 ```bash
-$ go run bin2dec.go 11112111
+$ go run bin2dec.go 00000000 11112111
 > 00000000 -> 0
 > 11112111 -> is not a binary string
 ```

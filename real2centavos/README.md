@@ -26,3 +26,4 @@ $ go run real2centavos.go 2.98
 ```
 
 :)
+---
